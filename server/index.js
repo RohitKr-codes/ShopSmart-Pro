@@ -25,7 +25,7 @@ initDB();
 app.use(cors({
   origin: [
     'http://localhost:5173',
-    'https://shopsmart-pro.vercel.app',
+    'https://shopsmart-pro-six.vercel.app',
     /\.vercel\.app$/
   ],
   credentials: true
